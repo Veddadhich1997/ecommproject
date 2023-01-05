@@ -1,0 +1,26 @@
+{
+  "name": "ecommproject",
+  "version": "1.0.0",
+  "description": "A full stack project for ecommerce-this is backend part",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Veddadhich1997/ecommproject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Veddadhich1997/ecommproject/issues"
+  },
+  "homepage": "https://github.com/Veddadhich1997/ecommproject#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.8.2"
+  }
+}
